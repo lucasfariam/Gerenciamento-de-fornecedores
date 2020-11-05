@@ -9,6 +9,7 @@ Versão do angular --> npm i @angular/cli@9.1.0
 CRUD de fornecedores e produtos funcionando perfeitamente, com boas praticas aplicadas!
 
 Tecnologias utilizadas
+
 C#
 
 TypeScript
