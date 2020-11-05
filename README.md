@@ -10,5 +10,7 @@ CRUD de fornecedores e produtos funcionando perfeitamente, com boas praticas apl
 
 Tecnologias utilizadas
 C#
+
 TypeScript
+
 Html
