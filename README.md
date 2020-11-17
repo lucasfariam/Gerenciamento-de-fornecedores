@@ -1,5 +1,5 @@
 # Projeto-Final
-Projeto de Angular-9 Completo
+Projeto de Angular9 Avançado e Completo 
 
 Projeto completo, com Cadastro de fornecedores e produtos.
 com api feita em c# e front com angular cli 9 desenvolvido com base no curso do Eduardo Pires, da plataforma https://desenvolvedor.io/curso-online-desenvolvimento-avancado-em-angular 
